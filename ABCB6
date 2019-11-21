@@ -1,3 +1,4 @@
+browser position chr2:220064493-220083680
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="ABCB6"  color=0,60,120 useScore=1 
 chr2	220067125	220067200	ABCB6	0.720685	-
 chr2	220069544	220069619	ABCB6	0.720685	-
