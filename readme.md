@@ -10,11 +10,6 @@ H3K4me1
 Datasets for lung adenocarcinoma :
 
 
-<a href=https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse106146 </a>
-
-
-
-
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse106146 
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse94986
