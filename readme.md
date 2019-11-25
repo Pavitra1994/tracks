@@ -14,3 +14,5 @@ Datasets for lung cell lines:
 2.https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse94986 : NGS data from purified alveolar epithelial type 2 (AT2) cells originating from 2 donor lungs, including whole genome bisulfite sequencing (WGBS) and Chromatin immunoprecipitation (ChIPseq) 
 
 3.https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse84273 : ChIP-seq for enhancer histone marks using purified primary human AECs (Alveolar Epithelial Cells)
+
+ 4: https://pubmed.ncbi.nlm.nih.gov/27042856-identification-of-epigenetic-biomarkers-of-lung-adenocarcinoma-through-multi-omics-data-analysis/?from_single_result=27042856: (yet to: 26 lung adenocarcinome cell lines + 1 normal cell line , refers to a database DBTSS ( https://dbtss.hgc.jp/?doc:data_contents_2017.html )
