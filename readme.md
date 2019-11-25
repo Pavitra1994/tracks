@@ -7,10 +7,10 @@ A region of 10kbp upstream to these genes till the second intron into the gene i
 H3K27ac 
 H3K4me1
 
-Datasets for lung adenocarcinoma :
+Datasets for lung cell lines:
 
+1.https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse106146 : This study compares genome-wide ChIP-seq profiles of several histone post-translational modifications in proliferating and senescent fibroblasts. (IMR90)
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse106146 
+2.https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse94986 : NGS data from purified alveolar epithelial type 2 (AT2) cells originating from 2 donor lungs, including whole genome bisulfite sequencing (WGBS) and Chromatin immunoprecipitation (ChIPseq) 
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse94986
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse84273
+3.https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse84273 : ChIP-seq for enhancer histone marks using purified primary human AECs (Alveolar Epithelial Cells)
