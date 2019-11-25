@@ -1,4 +1,4 @@
-[[a link](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&org=human&position=chr2&hgt.labelWidth=50&wgEncodeRegMarkH3k4me1=full&geneHancer=full&hgt.customText=https://github.com/Pavitra1994/tracks/raw/master/genes/ABCB6)
+[a link](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&org=human&position=chr2&hgt.labelWidth=50&wgEncodeRegMarkH3k4me1=full&geneHancer=full&hgt.customText=https://github.com/Pavitra1994/tracks/raw/master/genes/ABCB6)
 http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&org=human&position=chr10&hgt.labelWidth=50&wgEncodeRegMarkH3k4me1=full&geneHancer=full&hgt.customText=https://github.com/Pavitra1994/tracks/raw/master/genes/ABCC2
 http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&org=human&position=chr17&hgt.labelWidth=50&wgEncodeRegMarkH3k4me1=full&geneHancer=full&hgt.customText=https://github.com/Pavitra1994/tracks/raw/master/genes/ABCC3
 http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&org=human&position=chr7&hgt.labelWidth=50&wgEncodeRegMarkH3k4me1=full&geneHancer=full&hgt.customText=https://github.com/Pavitra1994/tracks/raw/master/genes/AKR1B1
