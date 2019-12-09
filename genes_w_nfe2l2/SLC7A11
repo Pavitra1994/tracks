@@ -1,4 +1,7 @@
 browser position chr4:139065250-139163503
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="SLC7A11"  color=0,60,120 useScore=1 
 chr4	139075517	139075585	SLC7A11	0.720685	-
 chr4	139075585	139075590	SLC7A11	1.44137	-

@@ -1,4 +1,7 @@
 browser position chr12:104589556-104744085
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="TXNRD1"  color=0,60,120 useScore=1 
 chr12	104600170	104600245	TXNRD1	0.720685	+
 chr12	104600331	104600334	TXNRD1	0.720685	+

@@ -1,4 +1,7 @@
 browser position chr11:61711756-61735106
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="FTH1"  color=0,60,120 useScore=1 
 chr11	61721792	61721793	FTH1	0.720685	-
 chr11	61721793	61721810	FTH1	1.44137	-

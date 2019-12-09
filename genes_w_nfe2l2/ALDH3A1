@@ -1,4 +1,7 @@
 browser position chr17:19621297-19651611
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="ALDH3A1"  color=0,60,120 useScore=1 
 chr17	19631297	19631303	ALDH3A1	8.64822	-
 chr17	19631303	19631311	ALDH3A1	7.92754	-

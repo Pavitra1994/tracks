@@ -1,4 +1,7 @@
 browser position chr22:35757088-35790200
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="HMOX1"  color=0,60,120 useScore=1 
 chr22	35767027	35767102	HMOX1	0.720685	+
 chr22	35767202	35767277	HMOX1	0.720685	+

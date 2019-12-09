@@ -1,4 +1,7 @@
 browser position chr1:45956706-45988562
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="PRDX1"  color=0,60,120 useScore=1 
 chr1	45966708	45966754	PRDX1	0.720685	-
 chr1	45966754	45966761	PRDX1	1.44137	-

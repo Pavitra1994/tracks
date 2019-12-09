@@ -1,4 +1,7 @@
 browser position chr19:40933674-40971652
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="BLVRB"  color=0,60,120 useScore=1 
 chr19	40944166	40944238	BLVRB	0.720685	-
 chr19	40944358	40944433	BLVRB	0.720685	-

@@ -1,4 +1,7 @@
 browser position chr9:137198300-137332432
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="RXRA"  color=0,60,120 useScore=1 
 chr9	137208353	137208428	RXRA	0.720685	+
 chr9	137208928	137209003	RXRA	0.720685	+

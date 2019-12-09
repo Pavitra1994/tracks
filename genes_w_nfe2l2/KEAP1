@@ -1,4 +1,7 @@
 browser position chr19:10576800-10614032
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="KEAP1"  color=0,60,120 useScore=1 
 chr19	10588785	10588860	KEAP1	0.720685	-
 chr19	10589123	10589198	KEAP1	0.720685	-

@@ -1,4 +1,7 @@
 browser position chr19:49448565-49470136
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="FTL"  color=0,60,120 useScore=1 
 chr19	49458563	49458566	FTL	15.8551	+
 chr19	49458566	49458567	FTL	16.5758	+

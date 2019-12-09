@@ -1,4 +1,7 @@
 browser position chr6:53342139-53409899
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="GCLC"  color=0,60,120 useScore=1 
 chr6	53352501	53352506	GCLC	0.720685	-
 chr6	53352506	53352558	GCLC	1.44137	-

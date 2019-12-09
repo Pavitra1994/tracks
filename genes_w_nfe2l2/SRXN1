@@ -1,4 +1,7 @@
 browser position chr20:607267-633844
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="SRXN1"  color=0,60,120 useScore=1 
 chr20	618304	618379	SRXN1	0.720685	-
 chr20	619288	619302	SRXN1	0.720685	-

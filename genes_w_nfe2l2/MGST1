@@ -1,4 +1,7 @@
 browser position chr12:16480075-16530126
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="MGST1"  color=0,60,120 useScore=1 
 chr12	16490041	16490106	MGST1	0.720685	+
 chr12	16491802	16491877	MGST1	0.720685	+

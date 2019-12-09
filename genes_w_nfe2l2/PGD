@@ -1,4 +1,7 @@
 browser position chr1:10439120-10480568
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="PGD"  color=0,60,120 useScore=1 
 chr1	10449430	10449503	PGD	0.720685	+
 chr1	10449984	10450057	PGD	0.720685	+

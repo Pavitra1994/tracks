@@ -1,4 +1,7 @@
 browser position chr1:225977775-226033262
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="EPHX1"  color=0,60,120 useScore=1 
 chr1	225988058	225988079	EPHX1	0.720685	+
 chr1	225988079	225988131	EPHX1	1.44137	+

@@ -1,4 +1,7 @@
 browser position chr14:65385875-65409463
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="GPX2"  color=0,60,120 useScore=1 
 chr14	65396455	65396530	GPX2	0.720685	-
 chr14	65396706	65396777	GPX2	0.720685	-

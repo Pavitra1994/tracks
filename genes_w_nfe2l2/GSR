@@ -1,4 +1,7 @@
 browser position chr8:30515579-30585516
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="GSR"  color=0,60,120 useScore=1 
 chr8	30525645	30525718	GSR	0.720685	-
 chr8	30526023	30526097	GSR	0.720685	-

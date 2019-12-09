@@ -1,4 +1,7 @@
 browser position chr21:37422321-37445462
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="CBR1"  color=0,60,120 useScore=1 
 chr21	37432317	37432330	CBR1	5.0448	+
 chr21	37432330	37432332	CBR1	4.32411	+

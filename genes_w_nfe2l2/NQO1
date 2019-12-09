@@ -1,4 +1,7 @@
 browser position chr16:69723303-69760463
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="NQO1"  color=0,60,120 useScore=1 
 chr16	69733292	69733305	NQO1	2.16206	-
 chr16	69733305	69733317	NQO1	2.88274	-

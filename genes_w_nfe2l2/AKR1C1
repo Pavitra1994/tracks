@@ -1,4 +1,7 @@
 browser position chr10:4985606-5025474
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="AKR1C1"  color=0,60,120 useScore=1 
 chr10	4995733	4995808	AKR1C1	0.720685	+
 chr10	4995890	4995965	AKR1C1	0.720685	+

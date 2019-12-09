@@ -1,4 +1,7 @@
 browser position chr3:53238722-53290130
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="TKT"  color=0,60,120 useScore=1 
 chr3	53249112	53249186	TKT	0.720685	-
 chr3	53249487	53249540	TKT	0.720685	-

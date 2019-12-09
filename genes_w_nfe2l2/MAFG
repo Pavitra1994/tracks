@@ -1,4 +1,7 @@
 browser position chr17:79856145-79885611
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="MAFG"  color=0,60,120 useScore=1 
 chr17	79866103	79866177	MAFG	0.720685	-
 chr17	79866396	79866471	MAFG	0.720685	-

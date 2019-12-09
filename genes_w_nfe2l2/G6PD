@@ -1,4 +1,7 @@
 browser position chrX:153739604-153775784
+browser hide all
+browser full geneHancer
+browser dense wgEncodeRegDnaseClustered
 track name=gse106146_combined_GSM2830447_IR-H3K27ac.Rep1.bed  description="G6PD"  color=0,60,120 useScore=1 
 chrX	153750176	153750251	G6PD	0.720685	-
 chrX	153751252	153751326	G6PD	0.720685	-
